@@ -1,0 +1,10 @@
+-you can change the code in the end inside the 
+if __name__=__main__ block as follows:
+
+-insert a different file to the read_file() function, options are:
+*'small_maze.txt'
+*'big_multi_maze.txt'
+*'big_maze.txt'
+
+-change training configuration in the train() method, 
+amount of training episodes and the value of epsilon are changeable
